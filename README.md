@@ -1,6 +1,6 @@
-# Shitcord
+# NukeCord
 
-My name is Shitcord and I'm a bot used to:
+My name is NukeCord and I'm a bot used to:
 - Raid servers
 - Nuke servers
 - Mass dm all members in a server
